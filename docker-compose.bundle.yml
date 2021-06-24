@@ -30,5 +30,5 @@ services:
 
 networks:
   default:
-    name: api_uaas_network:
+    name: api_uaas_network
     external: false
